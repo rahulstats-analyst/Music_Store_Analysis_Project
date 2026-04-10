@@ -1,4 +1,4 @@
-# Music_Store_Analysis_Project
+
 A comprehensive SQL data analysis project exploring a digital music store's database to uncover business insights, customer behaviors, and revenue trends.
 # 🎵 Music Store Data Analysis
 
