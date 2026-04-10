@@ -16,8 +16,6 @@ A comprehensive SQL data analysis project exploring a digital music store's data
 
 ---
 
-## 🎬 Action Snapshot
-*(Below is an animated snapshot of the data analysis in progress)*
 
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1770290/screenshots/6183149/bg_79.gif" alt="SQL Animation Placeholder" width="600">
